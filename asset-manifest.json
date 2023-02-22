@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kokoroko-portfolio/static/css/main.2ceaa055.css",
+    "main.js": "/kokoroko-portfolio/static/js/main.57c3d468.js",
+    "static/media/photo.png": "/kokoroko-portfolio/static/media/photo.dcfd7db59ae56d9ad1e4.png",
+    "static/media/tiger.gif": "/kokoroko-portfolio/static/media/tiger.8e57d88cf6f2994b1221.gif",
+    "static/media/snake-eating.webp": "/kokoroko-portfolio/static/media/snake-eating.5f1d977453f0ffde6bf6.webp",
+    "static/media/star.webp": "/kokoroko-portfolio/static/media/star.0bcc882cb98d2de1f6b0.webp",
+    "static/media/pizza.webp": "/kokoroko-portfolio/static/media/pizza.2f4c0d636aba6cd82033.webp",
+    "static/media/dove.webp": "/kokoroko-portfolio/static/media/dove.760e0f9ba7cf52cb7e3b.webp",
+    "static/media/flower.webp": "/kokoroko-portfolio/static/media/flower.29d5b4543990c6a5d225.webp",
+    "static/media/cyclops.webp": "/kokoroko-portfolio/static/media/cyclops.ab7b1e70454e6992b017.webp",
+    "static/media/sunbathing.webp": "/kokoroko-portfolio/static/media/sunbathing.346b4534e9bb10e61366.webp",
+    "static/media/cat-rider.webp": "/kokoroko-portfolio/static/media/cat-rider.c0e1ce682ac1095a21a9.webp",
+    "static/media/trade.webp": "/kokoroko-portfolio/static/media/trade.45a4db0d6d97e5e6748c.webp",
+    "static/media/reflection.webp": "/kokoroko-portfolio/static/media/reflection.d0dd0f530050d9ad1e23.webp",
+    "static/media/cat.webp": "/kokoroko-portfolio/static/media/cat.6013243afdfe684ece61.webp",
+    "static/media/snake-eating-neer.webp": "/kokoroko-portfolio/static/media/snake-eating-neer.9e67eb4ea7232a8265cc.webp",
+    "static/media/peacock.webp": "/kokoroko-portfolio/static/media/peacock.8b2734e1adfbdafd8ca3.webp",
+    "static/media/black-cat.webp": "/kokoroko-portfolio/static/media/black-cat.13733823eb01e9774495.webp",
+    "static/media/milkshake.webp": "/kokoroko-portfolio/static/media/milkshake.144508be34bf588f3445.webp",
+    "static/media/cheetah.webp": "/kokoroko-portfolio/static/media/cheetah.21cd55edd8e816d91577.webp",
+    "static/media/wine.webp": "/kokoroko-portfolio/static/media/wine.7e63295ecf1eca57c51c.webp",
+    "static/media/rgtm.webp": "/kokoroko-portfolio/static/media/rgtm.d110fc45c587cc58fa0c.webp",
+    "static/media/night-tiger.webp": "/kokoroko-portfolio/static/media/night-tiger.e5c715e07880cc87b046.webp",
+    "static/media/eye.webp": "/kokoroko-portfolio/static/media/eye.c5fd0e905e58d804b382.webp",
+    "static/media/swan.webp": "/kokoroko-portfolio/static/media/swan.2a602d8127058cfb30d9.webp",
+    "static/media/cat-beer.webp": "/kokoroko-portfolio/static/media/cat-beer.8ef52a97e78fefe26481.webp",
+    "static/media/candle.webp": "/kokoroko-portfolio/static/media/candle.790d8acbc8ca23e98c5e.webp",
+    "static/media/bell-flower.webp": "/kokoroko-portfolio/static/media/bell-flower.318cc5754f79b47a79d2.webp",
+    "static/media/eyes.webp": "/kokoroko-portfolio/static/media/eyes.6e83e6b33ba677a9714b.webp",
+    "index.html": "/kokoroko-portfolio/index.html",
+    "main.2ceaa055.css.map": "/kokoroko-portfolio/static/css/main.2ceaa055.css.map",
+    "main.57c3d468.js.map": "/kokoroko-portfolio/static/js/main.57c3d468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ceaa055.css",
+    "static/js/main.57c3d468.js"
+  ]
+}
